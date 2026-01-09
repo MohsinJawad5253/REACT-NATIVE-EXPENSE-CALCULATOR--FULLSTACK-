@@ -1,1 +1,1 @@
-export const API_URL = "https://react-native-transaction-tracker-app.onrender.com/api"
+export const API_URL = "https://react-native-transaction-tracker-ap.vercel.app/"
